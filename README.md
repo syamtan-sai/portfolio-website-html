@@ -19,12 +19,13 @@ It serves as a digital version of my resume, showcasing my skills, education, an
 ---
 
 ## 🚀 Live Demo
-[View Project Here](#) _(Add your GitHub Pages link here)_
+[View Project Here](https://syamtan-sai.github.io/portfolio-website-html/)
 
 ---
 
 ## 📸 Screenshot
-_(Add a screenshot of your portfolio page here)_
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7f2013de-9167-4a13-811f-a3d1d79129d0" />
+
 
 ---
 
