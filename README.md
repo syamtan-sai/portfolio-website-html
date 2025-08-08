@@ -24,7 +24,8 @@ It serves as a digital version of my resume, showcasing my skills, education, an
 ---
 
 ## 📸 Screenshot
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/cca7be3a-97ac-44ef-bde6-e735e762a018" />
+<img width="1895" height="854" alt="image" src="https://github.com/user-attachments/assets/33d75ec1-fa08-480b-af33-c8a1ad30d8b6" />
+
 
 
 
